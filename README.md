@@ -38,3 +38,14 @@ Running mahalfind example
     ./object_finder
 
 The executable above should launch three windows (red, green, blue) and filter pixels out based on the pure_red,green,blue.png images.
+
+Example
+-------
+
+For instance, the following image (captured in RGB) would appear as the second image shown below when ran through mahalfind
+
+![rgbframe](http:www.wpi.edu/~benersuay/resimler/projects/mahalfind01.jpg?raw=true "RGB Frame")
+
+![mahalfind](http:www.wpi.edu/~benersuay/resimler/projects/mahalfind02.png?raw=true "Mahal Find")
+
+
