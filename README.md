@@ -42,7 +42,12 @@ The executable above should launch three windows (red, green, blue) and filter p
 Example
 -------
 
-For instance, the following image (captured in RGB) would appear as the second image shown below when ran through mahalfind
+![tr](https://raw.github.com/benersuay/mahalfind/master/src/pure_red.png "Training Image R")
+![tg](https://raw.github.com/benersuay/mahalfind/master/src/pure_green.png "Training Image G")
+![tb](https://raw.github.com/benersuay/mahalfind/master/src/pure_blue.png "Training Image B")
+
+
+For instance, when we use the RGB training pngs you see above, the following image (captured in RGB) would appear as the second image shown below when ran through mahalfind (distance threshold values are 40,60,120).
 
 ![rgbframe](http:www.wpi.edu/~benersuay/resimler/projects/mahalfind01.jpg?raw=true "RGB Frame")
 
