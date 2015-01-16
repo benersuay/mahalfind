@@ -49,8 +49,8 @@ Example
 
 For instance, when we use the RGB training pngs you see above, the following image (captured in RGB) would appear as the second image shown below when ran through mahalfind (distance threshold values are 40,60,120).
 
-![rgbframe](http:users.wpi.edu/~benersuay/resimler/projects/mahalfind01.jpg?raw=true "RGB Frame")
+![rgbframe](http://users.wpi.edu/~benersuay/resimler/projects/mahalfind01.jpg "RGB Frame")
 
-![mahalfind](http:users.wpi.edu/~benersuay/resimler/projects/mahalfind02.png?raw=true "Mahal Find")
+![mahalfind](http://users.wpi.edu/~benersuay/resimler/projects/mahalfind02.png "Mahal Find")
 
 
